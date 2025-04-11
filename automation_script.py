@@ -30,6 +30,7 @@ class Virtoxed:
                 print(f"Visiting: {url}")
                 await page.goto(url, wait_until='domcontentloaded', timeout=30000)
                 await asyncio.sleep(10)
+
         except Exception as e:
             print(f"Error while visiting sites: {e}")
         finally:
