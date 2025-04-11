@@ -1,0 +1,682 @@
+[
+    {
+        "timestamp": "2025-04-11T12:22:59.713389",
+        "browser": "Browser-2",
+        "url": "https://jamescropper.com/",
+        "action": "visit",
+        "details": "UA: Mozilla/5.0 (X11; CrOS x86_64 8172.45.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.64 Safari/537.36, GEO: {'latitude': 48.8566, 'longitude': 2.3522}",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:00.669827",
+        "browser": "Browser-1",
+        "url": "https://bellator.com/",
+        "action": "visit",
+        "details": "UA: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36, GEO: {'latitude': 35.6895, 'longitude': 139.6917}",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:00.961828",
+        "browser": "Browser-2",
+        "url": "https://jamescropper.com/",
+        "action": "visit",
+        "details": "UA: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36, GEO: {'latitude': 35.6895, 'longitude': 139.6917}",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:02.989460",
+        "browser": "Browser-1",
+        "url": "https://code.org/helloworld",
+        "action": "visit",
+        "details": "UA: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36, GEO: {'latitude': 37.7749, 'longitude': -122.4194}",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:03.213695",
+        "browser": "Browser-1",
+        "url": "https://code.org/helloworld",
+        "action": "visit",
+        "details": "UA: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36, GEO: {'latitude': 37.7749, 'longitude': -122.4194}",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:05.676503",
+        "browser": "Browser-1",
+        "url": "https://bellator.com/",
+        "action": "time_spent",
+        "details": null,
+        "time_spent": "9.261778354644775s"
+    },
+    {
+        "timestamp": "2025-04-11T12:23:09.277161",
+        "browser": "Browser-2",
+        "url": "https://ittehad.com.pk/",
+        "action": "visit",
+        "details": "UA: Mozilla/5.0 (X11; CrOS x86_64 8172.45.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.64 Safari/537.36, GEO: {'latitude': 35.6895, 'longitude': 139.6917}",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:09.350435",
+        "browser": "Browser-2",
+        "url": "https://ittehad.com.pk/",
+        "action": "visit",
+        "details": "UA: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36, GEO: {'latitude': 48.8566, 'longitude': 2.3522}",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:10.085230",
+        "browser": "Browser-1",
+        "url": "https://ittehad.com.pk/",
+        "action": "visit",
+        "details": "UA: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36, GEO: {'latitude': 37.7749, 'longitude': -122.4194}",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:11.286641",
+        "browser": "Browser-1",
+        "url": "https://ittehad.com.pk/",
+        "action": "visit",
+        "details": "UA: Mozilla/5.0 (X11; CrOS x86_64 8172.45.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.64 Safari/537.36, GEO: {'latitude': 35.6895, 'longitude': 139.6917}",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:13.139761",
+        "browser": "Browser-2",
+        "url": "https://ittehad.com.pk/",
+        "action": "visit",
+        "details": "UA: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36, GEO: {'latitude': 37.7749, 'longitude': -122.4194}",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:14.145678",
+        "browser": "Browser-1",
+        "url": "https://ittehad.com.pk/",
+        "action": "visit",
+        "details": "UA: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36, GEO: {'latitude': 35.6895, 'longitude': 139.6917}",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:21.354722",
+        "browser": "Browser-1",
+        "url": "https://ittehad.com.pk/",
+        "action": "click",
+        "details": "Clicked '#header > div > div > nav > div.header-quote > a'",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:21.357708",
+        "browser": "Browser-1",
+        "url": "https://ittehad.com.pk/",
+        "action": "time_spent",
+        "details": null,
+        "time_spent": "24.958629369735718s"
+    },
+    {
+        "timestamp": "2025-04-11T12:23:22.107593",
+        "browser": "Browser-2",
+        "url": "https://ittehad.com.pk/",
+        "action": "click",
+        "details": "Clicked '#header > div > div > nav > div.header-quote > a'",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:22.113002",
+        "browser": "Browser-2",
+        "url": "https://ittehad.com.pk/",
+        "action": "time_spent",
+        "details": null,
+        "time_spent": "25.626476287841797s"
+    },
+    {
+        "timestamp": "2025-04-11T12:23:24.166809",
+        "browser": "Browser-1",
+        "url": "https://ittehad.com.pk/",
+        "action": "click",
+        "details": "Clicked '#header > div > div > nav > div.header-quote > a'",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:24.170581",
+        "browser": "Browser-1",
+        "url": "https://ittehad.com.pk/",
+        "action": "time_spent",
+        "details": null,
+        "time_spent": "27.764705657958984s"
+    },
+    {
+        "timestamp": "2025-04-11T12:23:25.175581",
+        "browser": "Browser-2",
+        "url": "https://jamescropper.com/",
+        "action": "visit",
+        "details": "UA: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36, GEO: {'latitude': 48.8566, 'longitude': 2.3522}",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:25.266255",
+        "browser": "Browser-2",
+        "url": "https://ittehad.com.pk/",
+        "action": "click",
+        "details": "Clicked '#header > div > div > nav > div.header-quote > a'",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:25.271394",
+        "browser": "Browser-2",
+        "url": "https://ittehad.com.pk/",
+        "action": "time_spent",
+        "details": null,
+        "time_spent": "28.797354698181152s"
+    },
+    {
+        "timestamp": "2025-04-11T12:23:27.120173",
+        "browser": "Browser-2",
+        "url": "https://jamescropper.com/",
+        "action": "scroll",
+        "details": "scroll",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:27.126141",
+        "browser": "Browser-2",
+        "url": "https://jamescropper.com/",
+        "action": "time_spent",
+        "details": null,
+        "time_spent": "30.633609771728516s"
+    },
+    {
+        "timestamp": "2025-04-11T12:23:27.199972",
+        "browser": "Browser-2",
+        "url": "https://ittehad.com.pk/",
+        "action": "click",
+        "details": "Clicked '#header > div > div > nav > div.header-quote > a'",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:27.209155",
+        "browser": "Browser-2",
+        "url": "https://ittehad.com.pk/",
+        "action": "time_spent",
+        "details": null,
+        "time_spent": "30.72911238670349s"
+    },
+    {
+        "timestamp": "2025-04-11T12:23:28.494202",
+        "browser": "Browser-1",
+        "url": "https://ittehad.com.pk/",
+        "action": "click",
+        "details": "Clicked '#header > div > div > nav > div.header-quote > a'",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:28.499061",
+        "browser": "Browser-1",
+        "url": "https://ittehad.com.pk/",
+        "action": "time_spent",
+        "details": null,
+        "time_spent": "22.815598487854004s"
+    },
+    {
+        "timestamp": "2025-04-11T12:23:28.791119",
+        "browser": "Browser-1",
+        "url": "https://code.org/helloworld",
+        "action": "visit",
+        "details": "UA: Mozilla/5.0 (X11; CrOS x86_64 8172.45.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.64 Safari/537.36, GEO: {'latitude': 35.6895, 'longitude': 139.6917}",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:29.895932",
+        "browser": "Browser-1",
+        "url": "https://bellator.com/",
+        "action": "visit",
+        "details": "UA: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36, GEO: {'latitude': 37.7749, 'longitude': -122.4194}",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:31.537170",
+        "browser": "Browser-1",
+        "url": "https://code.org/helloworld",
+        "action": "scroll",
+        "details": "scroll",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:31.543213",
+        "browser": "Browser-1",
+        "url": "https://code.org/helloworld",
+        "action": "time_spent",
+        "details": null,
+        "time_spent": "35.131685972213745s"
+    },
+    {
+        "timestamp": "2025-04-11T12:23:31.567001",
+        "browser": "Browser-2",
+        "url": "https://jamescropper.com/",
+        "action": "scroll",
+        "details": "scroll",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:31.596247",
+        "browser": "Browser-2",
+        "url": "https://jamescropper.com/",
+        "action": "time_spent",
+        "details": null,
+        "time_spent": "35.14554810523987s"
+    },
+    {
+        "timestamp": "2025-04-11T12:23:33.178615",
+        "browser": "Browser-1",
+        "url": "https://jamescropper.com/",
+        "action": "visit",
+        "details": "UA: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36, GEO: {'latitude': 35.6895, 'longitude': 139.6917}",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:33.354108",
+        "browser": "Browser-2",
+        "url": "https://bellator.com/",
+        "action": "visit",
+        "details": "UA: Mozilla/5.0 (X11; CrOS x86_64 8172.45.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.64 Safari/537.36, GEO: {'latitude': 48.8566, 'longitude': 2.3522}",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:33.847122",
+        "browser": "Browser-1",
+        "url": "https://code.org/helloworld",
+        "action": "scroll",
+        "details": "scroll",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:33.861378",
+        "browser": "Browser-1",
+        "url": "https://code.org/helloworld",
+        "action": "time_spent",
+        "details": null,
+        "time_spent": "37.81478762626648s"
+    },
+    {
+        "timestamp": "2025-04-11T12:23:34.665883",
+        "browser": "Browser-2",
+        "url": "https://code.org/helloworld",
+        "action": "visit",
+        "details": "UA: Mozilla/5.0 (X11; CrOS x86_64 8172.45.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.64 Safari/537.36, GEO: {'latitude': 35.6895, 'longitude': 139.6917}",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:35.592602",
+        "browser": "Browser-1",
+        "url": "https://jamescropper.com/",
+        "action": "visit",
+        "details": "UA: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36, GEO: {'latitude': 37.7749, 'longitude': -122.4194}",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:37.622028",
+        "browser": "Browser-2",
+        "url": "https://code.org/helloworld",
+        "action": "visit",
+        "details": "UA: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36, GEO: {'latitude': 37.7749, 'longitude': -122.4194}",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:38.908389",
+        "browser": "Browser-1",
+        "url": "https://bellator.com/",
+        "action": "time_spent",
+        "details": null,
+        "time_spent": "14.734634399414062s"
+    },
+    {
+        "timestamp": "2025-04-11T12:23:39.373104",
+        "browser": "Browser-2",
+        "url": "https://bellator.com/",
+        "action": "time_spent",
+        "details": null,
+        "time_spent": "12.237952470779419s"
+    },
+    {
+        "timestamp": "2025-04-11T12:23:40.095314",
+        "browser": "Browser-2",
+        "url": "https://bellator.com/",
+        "action": "visit",
+        "details": "UA: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36, GEO: {'latitude': 35.6895, 'longitude': 139.6917}",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:40.357731",
+        "browser": "Browser-1",
+        "url": "https://ittehad.com.pk/",
+        "action": "visit",
+        "details": "UA: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36, GEO: {'latitude': 37.7749, 'longitude': -122.4194}",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:42.390290",
+        "browser": "Browser-1",
+        "url": "https://jamescropper.com/",
+        "action": "visit",
+        "details": "UA: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36, GEO: {'latitude': 37.7749, 'longitude': -122.4194}",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:47.450129",
+        "browser": "Browser-2",
+        "url": "https://code.org/helloworld",
+        "action": "visit",
+        "details": "UA: Mozilla/5.0 (X11; CrOS x86_64 8172.45.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.64 Safari/537.36, GEO: {'latitude': 48.8566, 'longitude': 2.3522}",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:49.080362",
+        "browser": "Browser-2",
+        "url": "https://bellator.com/",
+        "action": "time_spent",
+        "details": null,
+        "time_spent": "17.401531457901s"
+    },
+    {
+        "timestamp": "2025-04-11T12:23:51.004338",
+        "browser": "Browser-2",
+        "url": "https://jamescropper.com/",
+        "action": "scroll",
+        "details": "scroll",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:51.019322",
+        "browser": "Browser-2",
+        "url": "https://jamescropper.com/",
+        "action": "time_spent",
+        "details": null,
+        "time_spent": "28.90164566040039s"
+    },
+    {
+        "timestamp": "2025-04-11T12:23:54.462911",
+        "browser": "Browser-1",
+        "url": "https://ittehad.com.pk/",
+        "action": "click",
+        "details": "Clicked '#header > div > div > nav > div.header-quote > a'",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:54.470943",
+        "browser": "Browser-1",
+        "url": "https://ittehad.com.pk/",
+        "action": "time_spent",
+        "details": null,
+        "time_spent": "20.522499084472656s"
+    },
+    {
+        "timestamp": "2025-04-11T12:23:55.510377",
+        "browser": "Browser-2",
+        "url": "https://code.org/helloworld",
+        "action": "visit",
+        "details": "UA: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36, GEO: {'latitude': 35.6895, 'longitude': 139.6917}",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:57.425666",
+        "browser": "Browser-2",
+        "url": "https://code.org/helloworld",
+        "action": "visit",
+        "details": "UA: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36, GEO: {'latitude': 48.8566, 'longitude': 2.3522}",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:57.531904",
+        "browser": "Browser-1",
+        "url": "https://jamescropper.com/",
+        "action": "visit",
+        "details": "UA: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36, GEO: {'latitude': 37.7749, 'longitude': -122.4194}",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:58.315276",
+        "browser": "Browser-1",
+        "url": "https://code.org/helloworld",
+        "action": "scroll",
+        "details": "scroll",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:23:58.324915",
+        "browser": "Browser-1",
+        "url": "https://code.org/helloworld",
+        "action": "time_spent",
+        "details": null,
+        "time_spent": "36.961650133132935s"
+    },
+    {
+        "timestamp": "2025-04-11T12:24:00.935163",
+        "browser": "Browser-1",
+        "url": "https://jamescropper.com/",
+        "action": "visit",
+        "details": "UA: Mozilla/5.0 (X11; CrOS x86_64 8172.45.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.64 Safari/537.36, GEO: {'latitude': 35.6895, 'longitude': 139.6917}",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:24:01.659078",
+        "browser": "Browser-1",
+        "url": "https://jamescropper.com/",
+        "action": "scroll",
+        "details": "scroll",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:24:01.668718",
+        "browser": "Browser-1",
+        "url": "https://jamescropper.com/",
+        "action": "time_spent",
+        "details": null,
+        "time_spent": "33.16630172729492s"
+    },
+    {
+        "timestamp": "2025-04-11T12:24:05.253431",
+        "browser": "Browser-2",
+        "url": "https://code.org/helloworld",
+        "action": "scroll",
+        "details": "scroll",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:24:05.262001",
+        "browser": "Browser-2",
+        "url": "https://code.org/helloworld",
+        "action": "time_spent",
+        "details": null,
+        "time_spent": "39.983603954315186s"
+    },
+    {
+        "timestamp": "2025-04-11T12:24:06.288305",
+        "browser": "Browser-1",
+        "url": "https://jamescropper.com/",
+        "action": "scroll",
+        "details": "scroll",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:24:06.302717",
+        "browser": "Browser-1",
+        "url": "https://jamescropper.com/",
+        "action": "time_spent",
+        "details": null,
+        "time_spent": "34.75451922416687s"
+    },
+    {
+        "timestamp": "2025-04-11T12:24:08.175134",
+        "browser": "Browser-2",
+        "url": "https://code.org/helloworld",
+        "action": "scroll",
+        "details": "scroll",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:24:08.187206",
+        "browser": "Browser-2",
+        "url": "https://code.org/helloworld",
+        "action": "time_spent",
+        "details": null,
+        "time_spent": "40.97184872627258s"
+    },
+    {
+        "timestamp": "2025-04-11T12:24:08.882853",
+        "browser": "Browser-1",
+        "url": "https://jamescropper.com/",
+        "action": "scroll",
+        "details": "scroll",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:24:08.889185",
+        "browser": "Browser-1",
+        "url": "https://jamescropper.com/",
+        "action": "time_spent",
+        "details": null,
+        "time_spent": "29.97348666191101s"
+    },
+    {
+        "timestamp": "2025-04-11T12:24:09.711444",
+        "browser": "Browser-2",
+        "url": "https://bellator.com/",
+        "action": "visit",
+        "details": "UA: Mozilla/5.0 (X11; CrOS x86_64 8172.45.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.64 Safari/537.36, GEO: {'latitude': 35.6895, 'longitude': 139.6917}",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:24:11.609540",
+        "browser": "Browser-1",
+        "url": "https://ittehad.com.pk/",
+        "action": "visit",
+        "details": "UA: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36, GEO: {'latitude': 37.7749, 'longitude': -122.4194}",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:24:12.039950",
+        "browser": "Browser-2",
+        "url": "https://jamescropper.com/",
+        "action": "visit",
+        "details": "UA: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36, GEO: {'latitude': 37.7749, 'longitude': -122.4194}",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:24:12.926839",
+        "browser": "Browser-2",
+        "url": "https://code.org/helloworld",
+        "action": "scroll",
+        "details": "scroll",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:24:12.936660",
+        "browser": "Browser-2",
+        "url": "https://code.org/helloworld",
+        "action": "time_spent",
+        "details": null,
+        "time_spent": "33.55454063415527s"
+    },
+    {
+        "timestamp": "2025-04-11T12:24:19.717644",
+        "browser": "Browser-2",
+        "url": "https://bellator.com/",
+        "action": "time_spent",
+        "details": null,
+        "time_spent": "14.447603464126587s"
+    },
+    {
+        "timestamp": "2025-04-11T12:24:24.015712",
+        "browser": "Browser-2",
+        "url": "https://code.org/helloworld",
+        "action": "scroll",
+        "details": "scroll",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:24:24.025182",
+        "browser": "Browser-2",
+        "url": "https://code.org/helloworld",
+        "action": "time_spent",
+        "details": null,
+        "time_spent": "32.983606576919556s"
+    },
+    {
+        "timestamp": "2025-04-11T12:24:24.655807",
+        "browser": "Browser-1",
+        "url": "https://ittehad.com.pk/",
+        "action": "click",
+        "details": "Clicked '#header > div > div > nav > div.header-quote > a'",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:24:24.670582",
+        "browser": "Browser-1",
+        "url": "https://ittehad.com.pk/",
+        "action": "time_spent",
+        "details": null,
+        "time_spent": "18.359623670578003s"
+    },
+    {
+        "timestamp": "2025-04-11T12:24:26.097236",
+        "browser": "Browser-2",
+        "url": "https://code.org/helloworld",
+        "action": "scroll",
+        "details": "scroll",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:24:26.105333",
+        "browser": "Browser-2",
+        "url": "https://code.org/helloworld",
+        "action": "time_spent",
+        "details": null,
+        "time_spent": "37.013110876083374s"
+    },
+    {
+        "timestamp": "2025-04-11T12:24:26.131642",
+        "browser": "Browser-1",
+        "url": "https://jamescropper.com/",
+        "action": "scroll",
+        "details": "scroll",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:24:26.142110",
+        "browser": "Browser-1",
+        "url": "https://jamescropper.com/",
+        "action": "time_spent",
+        "details": null,
+        "time_spent": "31.665644645690918s"
+    },
+    {
+        "timestamp": "2025-04-11T12:24:29.441282",
+        "browser": "Browser-1",
+        "url": "https://jamescropper.com/",
+        "action": "scroll",
+        "details": "scroll",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:24:29.461147",
+        "browser": "Browser-1",
+        "url": "https://jamescropper.com/",
+        "action": "time_spent",
+        "details": null,
+        "time_spent": "31.12391948699951s"
+    },
+    {
+        "timestamp": "2025-04-11T12:24:42.396404",
+        "browser": "Browser-2",
+        "url": "https://jamescropper.com/",
+        "action": "scroll",
+        "details": "scroll",
+        "time_spent": null
+    },
+    {
+        "timestamp": "2025-04-11T12:24:42.404188",
+        "browser": "Browser-2",
+        "url": "https://jamescropper.com/",
+        "action": "time_spent",
+        "details": null,
+        "time_spent": "34.20519971847534s"
+    }
+]
